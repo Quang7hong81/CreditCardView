@@ -429,7 +429,7 @@ I would love to get more people involved in the development of this library. A l
 
 Credits
 -----------------
-Author: Vinay Gaba (vinaygaba@gmail.com)
+Author: Thong Ngo (quangthong1011@gmail.com)
 
 <a href="https://plus.google.com/+Vinaygaba">
   <img alt="Follow me on Google+"
